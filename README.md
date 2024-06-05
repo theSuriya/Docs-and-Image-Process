@@ -14,7 +14,7 @@ This Streamlit app allows you to upload and process documents and images. You ca
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/document-image-processing-app.git
+    git clone https://github.com/theSuriya/Docs-and-Image-Process.git
     cd document-image-processing-app
     ```
 
@@ -23,8 +23,14 @@ This Streamlit app allows you to upload and process documents and images. You ca
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
+    
+3. **Google API KEY**:
+Go to this site to generate api key [HERE](https://aistudio.google.com) You can see left side generate api thn click and copy. Once you have the api key, locate the .env file in your project directory. Open it and paste your aoi key like this:
+  ```bash
+  GOOGLE_API_KEY = "paste the api key here"
+  ```
 
-3. **Install the required dependencies**:
+4. **Install the required dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
@@ -39,17 +45,6 @@ This Streamlit app allows you to upload and process documents and images. You ca
 2. **Upload a file**: Choose a PDF, PNG, JPG, or JPEG file to upload.
 3. **Select processing options**: Choose one or more of the available processing options (Summarize, Translate, Extract Keywords, Sentiment Analysis).
 4. **View results**: The results will be displayed in the main section of the app.
-
-## File Structure
-
-document-image-processing-app/
-│
-├── app.py # Main application script
-├── image_process.py # Script for image processing
-├── model.py # Script containing all models for text processing
-├── pdf_process.py # Script for PDF text extraction
-├── requirements.txt # List of required Python packages
-└── README.md # This README file
 
 ## Example
 
@@ -69,6 +64,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to contact:
 
-- **Your Name**
+- **Suriya S**
 - **Email**: thesuriya3@gmail.com
 - **GitHub**: [Suriya s](https://github.com/theSuriya)
