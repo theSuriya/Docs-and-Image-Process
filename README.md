@@ -14,7 +14,7 @@ This Streamlit app allows you to upload and process documents and images. You ca
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/theSuriya/Docs-and-Image-Process.git
+    git clone https://github.com/theSuriya/IntelliDoc.git
     cd document-image-processing-app
     ```
 
