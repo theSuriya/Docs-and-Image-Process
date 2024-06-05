@@ -15,7 +15,7 @@ IntelliDoc is a Streamlit app designed to process and manage various types of do
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/theSuriya/IntelliDoc.git
-    cd document-image-processing-app
+    cd IntelliDoc
     ```
 
 2. **Create a virtual environment**:
