@@ -50,7 +50,7 @@ Go to this site to generate api key [HERE](https://aistudio.google.com) You can 
 
 Upload a PDF or image file, select the desired options, and view the processed results. Here’s a screenshot of the app in action:
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ## Contributing
 
