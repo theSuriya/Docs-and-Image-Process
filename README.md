@@ -1,6 +1,6 @@
-# IntelliDoc App
+# IntelliDoc: Intelligent Document Processor
 
-This Streamlit app allows you to upload and process documents and images. You can perform various operations like summarizing text, translating to different languages, extracting keywords, and analyzing sentiment. Simply upload a file and select the desired options to get started.
+IntelliDoc is a Streamlit app designed to process and manage various types of documents intelligently. The app will allow users to upload documents, images, or screenshots, and it will perform a variety of tasks such as  summarization, translation, and keyword extraction and chat with image. The end goal is to help users easily manage and understand their documents without manual effort.
 
 ## Features
 
