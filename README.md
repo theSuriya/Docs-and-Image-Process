@@ -20,8 +20,9 @@ IntelliDoc is a Streamlit app designed to process and manage various types of do
 
 2. **Create a virtual environment**:
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   python -m venv ./venv
+   cd venv\Scripts
+   activate
     ```
     
 3. **Google API KEY**:
