@@ -26,7 +26,7 @@ IntelliDoc is a Streamlit app designed to process and manage various types of do
     ```
     
 3. **Google API KEY**:
-Go to this site to generate api key [HERE](https://aistudio.google.com) You can see left side generate api thn click and copy. Once you have the api key, locate the .env file in your project directory. Open it and paste your aoi key like this:
+Go to this site to generate api key [HERE](https://aistudio.google.com) You can see left side generate api thn click and copy. Once you have the api key, locate the .env file in your project directory. Open it and paste your api key like this:
   ```bash
   GOOGLE_API_KEY = "paste the api key here"
   ```
